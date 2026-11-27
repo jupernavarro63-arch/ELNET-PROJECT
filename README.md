@@ -1,2 +1,0 @@
-# ELNET-PROJECT
-project deployment
